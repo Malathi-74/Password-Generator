@@ -14,6 +14,9 @@ Users can choose the password length and generate a secure password instantly.
 - CSS
 - JavaScript (Internal Script)
 
+## Screenshot
+![Project Screenshot](random%20password%20generator%20screenshot.png)
+
 ## How to Run
 1. Download or clone the repository.
 2. Open `index.html` in any browser.
