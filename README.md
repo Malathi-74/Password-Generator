@@ -18,6 +18,3 @@ Users can choose the password length and generate a secure password instantly.
 1. Download or clone the repository.
 2. Open `index.html` in any browser.
 3. Click generate to create a password.
-
-## Author
-Malathi N
